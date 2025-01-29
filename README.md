@@ -1,4 +1,7 @@
 # Kubernetes Mario Deployment with Terraform on AWS
+### Demo Preview 🎮
+
+![Mario Game Deployment](ScreenRecording2025-01-29at11.50.57AM-ezgif.com-speed.gif)
 
 ## Prerequisites
 Ensure you have the following set up before proceeding:
